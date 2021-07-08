@@ -1,3 +1,3 @@
 #include<win.h>
-printf("hello");
 cout<<"second edit";
+a=a+1;
